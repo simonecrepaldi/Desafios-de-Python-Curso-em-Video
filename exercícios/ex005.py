@@ -1,4 +1,5 @@
-#Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
+#Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+
 num1 = int(input('Digite um número: '))
 num2 = num1 - 1
 num3 = num1 + 1
